@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/1. HỌC TẬP ĐẠI HỌC BÁCH KHOA - ĐHQG TP HCM (2022 - 2026)/HK231 (2023 - 2024)/1. Cấu trúc dữ liệu và giải thuật/4. BTL 1/initial",
+      "program": "d:/1. HỌC TẬP ĐẠI HỌC BÁCH KHOA - ĐHQG TP HCM (2022 - 2026)/HK231 (2023 - 2024)/1. Cấu trúc dữ liệu và giải thuật/4. BTL 1/initial/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
