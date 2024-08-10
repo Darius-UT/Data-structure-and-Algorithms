@@ -2,6 +2,6 @@
 
 ## Mô Tả
 + HK 231 - HCMUT
-+ GV: ThS Trần Giang Sơn
-+ TA: Vũ Văn Tiến
++ Giảng viên lý thuyết: ThS Trần Giang Sơn
++ Giảng viên thực hành: Vũ Văn Tiến
 + Bao gồm: Tất cả tài liệu liên quan đến môn học Cấu trúc dữ liệu và Giải thuật
